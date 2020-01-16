@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\newYearResolutions\newYearResolutions\bin\Debug\newYearResolutions.exe.config
+C:\Users\Laptop\Desktop\newYearResolutions\newYearResolutions\bin\Debug\newYearResolutions.exe
+C:\Users\Laptop\Desktop\newYearResolutions\newYearResolutions\bin\Debug\newYearResolutions.pdb
+C:\Users\Laptop\Desktop\newYearResolutions\newYearResolutions\obj\Debug\newYearResolutions.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\newYearResolutions\newYearResolutions\obj\Debug\newYearResolutions.exe
+C:\Users\Laptop\Desktop\newYearResolutions\newYearResolutions\obj\Debug\newYearResolutions.pdb
